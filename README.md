@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on Ai/Ml  <br>👯 I’m looking to collaborate on Ai Automation<br>🤝 I’m looking for help with Cloud Computing<br>🌱 I’m currently learning AI/ML , AI Automation , Cloud Computing <br>💬 Ask me about<br>⚡ Fun fact
+🚀 AI & Full-Stack Developer | Computer Vision | Generative AI | Agentic AI
+
+Passionate about building AI-powered applications that solve real-world problems using Machine Learning, Deep Learning, Computer Vision, and Large Language Models.
+
+Currently exploring Agentic AI, RAG, IBM watsonx.ai, Google Cloud AI, and modern full-stack development while building intelligent automation and vision-based systems.
+
+💻 Tech Stack
+• Python • Java • JavaScript • React • Node.js • FastAPI
+• OpenCV • YOLO • TensorFlow • PyTorch • Scikit-learn
+• MongoDB • MySQL • Git • GitHub • Docker
+
+🌱 Always learning, building, and contributing to impactful AI solutions.
 
 
 ## 🌐 Socials:
